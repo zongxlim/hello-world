@@ -1,2 +1,2 @@
 # hello-world
-First repository on how to use GitHub
+Hello! My name is Zong and this is my first repository on GitHub!
